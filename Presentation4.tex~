@@ -116,7 +116,7 @@ Three dimensional image data is stored as 3 dimensional array, consisting of a s
 							
 				\end{tabular}
 						
-						\caption{ a) Intensity Interface. b) Texture Interface. c) Colour Interface. d) Interface Location}
+						\caption{ a) Intensity Interface. b) Colour Interface. c) Texture Interface. d) Interface Location}
 				\end{figure}
 	
 	\end{frame}
@@ -139,16 +139,16 @@ Three dimensional image data is stored as 3 dimensional array, consisting of a s
 
 			\end{frame}
 			
-			\begin{frame}
-\frametitle{3D Surfaces}
-						\begin{itemize}
-							\item Optimal plane of application is not known a priori
-								\item Surfaces which lie in the plane of edge detection are not detected. Instead an outer edge of the surface is identified
-						\end{itemize}
-\begin{center}
-			\includemedia[activate=onclick, width=0.75\textwidth]{\includegraphics{fail2d}}{cubes1.mp4}
-\end{center}
-\end{frame}
+%			\begin{frame}
+%\frametitle{3D Surfaces}
+%						\begin{itemize}
+%							\item Optimal plane of application is not known a priori
+%								\item Surfaces which lie in the plane of edge detection are not detected. Instead an outer edge of the surface is identified
+%						\end{itemize}
+%\begin{center}
+%			\includemedia[activate=onclick, width=0.75\textwidth]{\includegraphics{fail2d}}{cubes1.mp4}
+%\end{center}
+%\end{frame}
 
 \section{3D surface detection methods}
 
@@ -860,7 +860,7 @@ Steerable & Canny & Statistical
 				\begin{center}
 				\textbf{End}\\
 		
-				{\tiny{pub ?}}
+				{\Huge{pub ?}}
 				\end{center}
 			
 
