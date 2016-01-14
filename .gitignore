@@ -24,7 +24,7 @@ Temporary Items
 
 
 ### LaTeX ###
-*.pdf
+*converted-to.pdf
 *.acn
 *.acr
 *.alg
